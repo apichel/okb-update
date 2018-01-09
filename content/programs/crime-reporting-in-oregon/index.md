@@ -1,6 +1,6 @@
 ---
 title: "Crime Reporting in Oregon"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "08/08/2016"
 category: "Research"
 tags:

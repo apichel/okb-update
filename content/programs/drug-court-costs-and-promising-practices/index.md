@@ -1,6 +1,6 @@
 ---
 title: "Drug Court Costs and Promising Practices"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "06/07/2016"
 category: "Research"
 tags:

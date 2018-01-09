@@ -1,6 +1,6 @@
 ---
 title: "Crime Reducing Effects and Financial Impact of Improved Lighting"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "02/09/2017"
 category: "Research"
 tags:

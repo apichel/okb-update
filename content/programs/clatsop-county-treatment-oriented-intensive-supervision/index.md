@@ -1,6 +1,6 @@
 ---
 title: "Clatsop County Treatment Oriented Intensive Supervision"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "01/28/2016"
 slug: "clatsop-treatment-oriented-intensive-supervision"
 category: "Correctional"

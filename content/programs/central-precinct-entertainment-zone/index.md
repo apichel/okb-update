@@ -1,6 +1,6 @@
 ---
 title: "Central Precinct Entertainment Zone"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "11/04/2015"
 slug: "central-precinct-entertainment-zone"
 category: "Policing"

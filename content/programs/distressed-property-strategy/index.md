@@ -1,6 +1,6 @@
 ---
 title: "Distressed Property Strategy"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "03/23/2016"
 category: "Policing"
 tags:

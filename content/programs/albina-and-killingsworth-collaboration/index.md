@@ -1,6 +1,6 @@
 ---
 title: "The Albina and Killingsworth Collaboration"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "09/22/2015"
 slug: "albina-killingsworth-collaboration"
 category: "Policing"

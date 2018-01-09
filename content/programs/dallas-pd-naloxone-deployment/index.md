@@ -1,6 +1,6 @@
 ---
 title: "Dallas PD Naloxone Deployment"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "02/07/2017"
 category: "Policing"
 tags:

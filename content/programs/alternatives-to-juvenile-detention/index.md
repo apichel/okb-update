@@ -1,6 +1,6 @@
 ---
 title: "Alternatives to Juvenile Detention"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "02/08/2017"
 slug: "alternatives-to-juvenile-detention"
 category: "Research"

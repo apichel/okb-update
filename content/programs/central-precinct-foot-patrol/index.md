@@ -1,6 +1,6 @@
 ---
 title: "Central Precinct Foot Patrol"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "10/19/2015"
 slug: "central-precinct-foot-patrol"
 category: "Policing"

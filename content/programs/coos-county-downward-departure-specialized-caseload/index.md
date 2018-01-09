@@ -1,6 +1,6 @@
 ---
 title: "Coos County Downward Departure Specialized Caseload"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "07/20/2016"
 category: "Correctional"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Community Partnerships and Construction Sites"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "05/09/2017"
 slug: "community-partnerships-construction-sites"
 category: "Policing"

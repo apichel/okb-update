@@ -1,6 +1,6 @@
 ---
 title: "Court Appearance Notification System"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "05/12/2016"
 category: "Research"
 tags:

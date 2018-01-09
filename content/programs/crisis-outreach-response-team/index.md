@@ -1,6 +1,6 @@
 ---
 title: "Crisis Outreach Response Team (CORT)"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "09/17/2015"
 category: "Policing"
 tags:

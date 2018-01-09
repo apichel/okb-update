@@ -1,6 +1,6 @@
 ---
 title: "Clackamas County Transition Center"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "11/20/2015"
 slug: "clackamas-transition-center"
 category: "Correctional"

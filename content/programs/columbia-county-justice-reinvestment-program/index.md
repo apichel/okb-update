@@ -1,6 +1,6 @@
 ---
 title: "Columbia County Justice Reinvestment Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "06/20/2016"
 slug: "columbia-jri"
 category: "Correctional"

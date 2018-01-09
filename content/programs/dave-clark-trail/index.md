@@ -1,6 +1,6 @@
 ---
 title: "Dave Clark Trail"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "01/27/2016"
 category: "Policing"
 tags:

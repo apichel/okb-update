@@ -1,6 +1,6 @@
 ---
 title: "Benton County Transition Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "07/18/2016"
 slug: "benton-transition-program"
 category: "Correctional"

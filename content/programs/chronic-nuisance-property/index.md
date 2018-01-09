@@ -1,6 +1,6 @@
 ---
 title: "Chronic Nuisance Property"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "10/08/2015"
 slug: "chronic-nuisance-property"
 category: "Policing"

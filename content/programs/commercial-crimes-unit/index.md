@@ -1,6 +1,6 @@
 ---
 title: "Commercial Crimes Unit"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "03/16/2016"
 slug: "commercial-crimes-unit"
 category: "Policing"

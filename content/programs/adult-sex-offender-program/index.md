@@ -1,6 +1,6 @@
 ---
 title: "Adult Sex Offender Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "11/18/2015"
 slug: "adult-sex-offender-program"
 category: "Correctional"

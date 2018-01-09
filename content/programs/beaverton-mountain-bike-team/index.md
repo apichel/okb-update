@@ -1,6 +1,6 @@
 ---
 title: "Beaverton Mountain Bike Team"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "12/17/2017"
 slug: "mountain-bike-team"
 category: "Policing"

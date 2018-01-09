@@ -1,6 +1,6 @@
 ---
 title: "Clackamas County Lethality Assessment Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "10/22/2015"
 slug: "lethality-assessment-program"
 category: "Policing"

@@ -1,6 +1,6 @@
 ---
 title: "DUII Intensive Supervision Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "03/31/2016"
 category: "Correctional"
 tags:

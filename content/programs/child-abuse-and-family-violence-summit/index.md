@@ -1,6 +1,6 @@
 ---
 title: "Child Abuse and Family Violence Summit"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "policing"
 date: "12/01/2015"
 slug: "family-violence-summit"
 category: "Policing"

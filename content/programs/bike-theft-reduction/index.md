@@ -1,6 +1,6 @@
 ---
 title: "Bike Theft Reduction"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "11/08/2016"
 slug: "bike-theft-reduction"
 category: "Policing"

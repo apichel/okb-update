@@ -1,6 +1,6 @@
 ---
 title: "CPTED: The Commercial Demonstration in Portland, Oregon"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "10/02/2015"
 slug: "cpted-portland"
 category: "Research"

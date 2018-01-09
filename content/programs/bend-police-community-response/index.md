@@ -1,6 +1,6 @@
 ---
 title: "Bend Community Response Team"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "03/30/2016"
 slug: "bend-community-response-team"
 category: "Policing"

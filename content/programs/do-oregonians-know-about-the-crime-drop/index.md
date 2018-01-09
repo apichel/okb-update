@@ -1,6 +1,6 @@
 ---
 title: "Do Oregonians Know About the Crime Drop?"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "03/29/2016"
 category: "Research"
 tags:

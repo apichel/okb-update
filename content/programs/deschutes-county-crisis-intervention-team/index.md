@@ -1,6 +1,6 @@
 ---
 title: "Deschutes County Crisis Intervention Team"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "03/31/2016"
 category: "Policing"
 tags:
