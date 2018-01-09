@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */tags/
+Disallow: */categories/
+
+sitemap: https://okb.netlify.com/sitemap.xml
