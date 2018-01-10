@@ -1,6 +1,6 @@
 ---
 title: "Child Abuse and Family Violence Summit"
-cover: "policing"
+cover: "/logos/policing.png"
 date: "12/01/2015"
 slug: "family-violence-summit"
 category: "Policing"
