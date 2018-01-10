@@ -15,7 +15,7 @@ module.exports = {
   userName: "Oregon Knowledge Bank", // Username to display in the author segment.
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Salem, OR", // User location to display in the author segment.
-  userAvatar: "/logos/logo-1024.png", // User avatar to display in the author
+  userAvatar: "/logos/logo-192.png", // User avatar to display in the author
     // segment.
   userDescription:
     "The Oregon Knowledge Bank is ...", // User description to display in the
