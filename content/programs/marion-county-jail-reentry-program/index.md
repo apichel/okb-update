@@ -1,6 +1,6 @@
 ---
 title: "Marion County Jail Reentry Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "12/12/2016"
 category: "Correctional"
 tags:

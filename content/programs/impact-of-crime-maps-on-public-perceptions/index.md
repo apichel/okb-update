@@ -1,6 +1,6 @@
 ---
 title: "Impact of Crime Maps on Public Perceptions"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "05/20/2016"
 category: "Research"
 tags:

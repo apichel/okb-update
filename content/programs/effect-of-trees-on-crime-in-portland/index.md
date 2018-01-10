@@ -1,6 +1,6 @@
 ---
 title: "The Effect of Trees on Crime in Portland, Oregon"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "11/09/2015"
 category: "Research"
 tags:

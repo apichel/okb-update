@@ -1,6 +1,6 @@
 ---
 title: "Resolution Northwest Victim-Offender Mediation Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "11/06/2015"
 category: "Research"
 tags:

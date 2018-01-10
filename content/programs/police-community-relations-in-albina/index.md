@@ -1,6 +1,6 @@
 ---
 title: "Police-Community Relations in Albina, 1964-1985"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "12/09/2015"
 category: "Research"
 tags:

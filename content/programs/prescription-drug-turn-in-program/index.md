@@ -1,6 +1,6 @@
 ---
 title: "Prescription Drug Turn-In Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "06/20/2016"
 category: "Policing"
 tags:

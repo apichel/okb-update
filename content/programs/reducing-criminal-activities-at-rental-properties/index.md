@@ -1,6 +1,6 @@
 ---
 title: "Reducing Criminal Activities at Rental Properties"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "02/09/2017"
 category: "Research"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Neighborhood Involvement Locations"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "02/05/2016"
 category: "Policing"
 tags:

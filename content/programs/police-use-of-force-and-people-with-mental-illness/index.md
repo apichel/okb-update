@@ -1,6 +1,6 @@
 ---
 title: "Police Use of Force and People with Mental Illness"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "11/30/2015"
 category: "Research"
 tags:

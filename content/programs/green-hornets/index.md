@@ -1,6 +1,6 @@
 ---
 title: "Green Hornet Wilderness Law Enforcement Services and Search and Rescue Team"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "11/08/2016"
 category: "Policing"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Hood River County Telmate Guardian"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "11/23/2015"
 category: "Correctional"
 tags:

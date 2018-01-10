@@ -1,6 +1,6 @@
 ---
 title: "Gilliam County Justice Reinvestment Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "02/05/2016"
 category: "Correctional"
 tags:

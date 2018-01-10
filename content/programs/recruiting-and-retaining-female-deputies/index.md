@@ -1,6 +1,6 @@
 ---
 title: "Recruiting and Retaining Female Deputies"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "06/02/2016"
 category: "Correctional"
 tags:

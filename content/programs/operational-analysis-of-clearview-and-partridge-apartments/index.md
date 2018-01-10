@@ -1,6 +1,6 @@
 ---
 title: "Operational Analysis of CLearview and Partridge Apartments"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "10/19/2015"
 category: "Policing"
 tags:

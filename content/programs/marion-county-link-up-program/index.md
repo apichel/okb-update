@@ -1,6 +1,6 @@
 ---
 title: "Marion County Link Up Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "02/07/2017"
 category: "Correctional"
 tags:

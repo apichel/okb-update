@@ -1,6 +1,6 @@
 ---
 title: "Special Response Fee Notice"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "10/08/2015"
 category: "Policing"
 tags:

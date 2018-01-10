@@ -1,6 +1,6 @@
 ---
 title: "Eugene Safety Town"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "11/17/2015"
 category: "Policing"
 tags:

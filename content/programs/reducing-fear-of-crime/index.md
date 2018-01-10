@@ -1,6 +1,6 @@
 ---
 title: "Reducing Fear of Crime"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "03/30/2016"
 category: "Research"
 tags:

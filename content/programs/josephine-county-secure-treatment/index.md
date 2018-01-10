@@ -1,6 +1,6 @@
 ---
 title: "Josephine County Secure Treatment"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "04/08/2016"
 category: "Correctional"
 tags:

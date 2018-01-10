@@ -1,6 +1,6 @@
 ---
 title: "Malheur County Jail Diversion"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "09/26/2016"
 category: "Correctional"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Theft from Vehicle Prevention - Letter Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "12/02/2015"
 category: "Policing"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Klamath County Victim and Family Justice Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "06/20/2016"
 category: "Correctional"
 tags:

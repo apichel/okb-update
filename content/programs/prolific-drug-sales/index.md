@@ -1,6 +1,6 @@
 ---
 title: "Prolific Drug Sales"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "05/12/2016"
 category: "Policing"
 tags:

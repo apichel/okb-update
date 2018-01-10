@@ -1,6 +1,6 @@
 ---
 title: "Evidence-Based Decision Making"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "11/21/2016"
 category: "Correctional"
 tags:

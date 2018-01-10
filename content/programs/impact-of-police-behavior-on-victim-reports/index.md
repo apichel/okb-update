@@ -1,6 +1,6 @@
 ---
 title: "Impact of Police Behavior on Victim Reports"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "12/03/2015"
 category: "Research"
 tags:

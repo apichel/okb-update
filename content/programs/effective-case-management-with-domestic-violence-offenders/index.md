@@ -1,6 +1,6 @@
 ---
 title: "Effective Case Management With Domestic Violence Offenders"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "06/08/2016"
 category: "Research"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Marion County SB 416 Alternative Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "03/29/2016"
 category: "Correctional"
 tags:

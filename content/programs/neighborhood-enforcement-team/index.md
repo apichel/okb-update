@@ -1,6 +1,6 @@
 ---
 title: "Neighborhood Enforcement Team"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "12/03/2015"
 category: "Policing"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Polk County Transition Services Specialist"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "01/27/2016"
 category: "Correctional"
 tags:

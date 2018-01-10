@@ -1,6 +1,6 @@
 ---
 title: "Eight-Grade Transition Program"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "06/13/2016"
 category: "Correctional"
 tags:

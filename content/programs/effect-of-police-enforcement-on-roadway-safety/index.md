@@ -1,6 +1,6 @@
 ---
 title: "The Effect of Police Enforcement on Roadway Safety"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "12/09/2015"
 category: "Research"
 tags:

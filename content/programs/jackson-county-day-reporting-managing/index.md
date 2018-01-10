@@ -1,6 +1,6 @@
 ---
 title: "Jackson County Day Reporting - Managing"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "12/04/2015"
 category: "Correctional"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County Transition and Programming Services"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "07/25/2016"
 category: "Correctional"
 tags:

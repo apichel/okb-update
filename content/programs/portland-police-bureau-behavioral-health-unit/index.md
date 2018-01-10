@@ -1,6 +1,6 @@
 ---
 title: "Portland Police Bureau Behavioral Health Unit"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "05/02/2016"
 category: "Policing"
 tags:

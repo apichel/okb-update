@@ -1,6 +1,6 @@
 ---
 title: "Trespass Letter of Consent"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "12/04/2015"
 category: "Policing"
 tags:

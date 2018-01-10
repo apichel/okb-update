@@ -1,6 +1,6 @@
 ---
 title: "Sex Offender Monitoring and Compliance"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "02/04/2016"
 category: "Policing"
 tags:

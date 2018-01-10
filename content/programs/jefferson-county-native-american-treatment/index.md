@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County Native American Treatment"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "08/17/2016"
 category: "Correctional"
 tags:

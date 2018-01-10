@@ -1,6 +1,6 @@
 ---
 title: "Statewide Approach to Mental Health and Crisis Response"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "10/10/2017"
 category: "Policing"
 tags:

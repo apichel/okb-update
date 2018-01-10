@@ -1,6 +1,6 @@
 ---
 title: "Mental Health Response Team"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "06/02/2016"
 category: "Policing"
 tags:

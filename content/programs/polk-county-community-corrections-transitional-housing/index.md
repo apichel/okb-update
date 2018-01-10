@@ -1,6 +1,6 @@
 ---
 title: "Polk County Community Corrections Transitional Housing"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "09/29/2016"
 category: "Correctional"
 tags:

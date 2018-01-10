@@ -1,6 +1,6 @@
 ---
 title: "Measure 57 Drug Courts"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/research.png"
 date: "03/29/2016"
 category: "Research"
 tags:

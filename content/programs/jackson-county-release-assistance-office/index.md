@@ -1,6 +1,6 @@
 ---
 title: "Jackson County Release Assistance Office"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/correctional.png"
 date: "12/04/2014"
 category: "Correctional"
 tags:

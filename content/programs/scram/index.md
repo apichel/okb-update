@@ -1,6 +1,6 @@
 ---
 title: "Security Camera Registration and Mapping (SCRAM)"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "04/25/2016"
 category: "Policing"
 tags:

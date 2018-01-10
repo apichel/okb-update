@@ -1,6 +1,6 @@
 ---
 title: "Operation 911 Misuse Reduction"
-cover: "https://unsplash.it/400/300/?random?"
+cover: "/logos/policing.png"
 date: "09/22/2015"
 category: "Policing"
 tags:
