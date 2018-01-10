@@ -3,8 +3,8 @@
   date: "01/09/2018"
   category: "Policing"
   tags:
-    - "Mental Health"
-    - "Chronic Nuisance"
+    - Mental Health
+    - Chronic Nuisance
 ---
 
 # Test Program
