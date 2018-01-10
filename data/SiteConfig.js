@@ -36,5 +36,5 @@ module.exports = {
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2017. CJC &amp; DPSST" // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2017. CJC & DPSST" // Copyright string for the footer of the website and RSS feed.
 };
